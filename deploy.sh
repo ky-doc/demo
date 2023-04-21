@@ -12,7 +12,7 @@ pnpm docs:build
 # 拷贝目录和文件
 # cp -r ../../../.github ./
 
-
+git init
 git add ./
 git commit -m "update"
 git remote add origin https://github.com/ky-doc/demo.git
