@@ -15,7 +15,7 @@ pnpm docs:build
 git init
 git add ./
 git commit -m "update"
-git remote add origin https://github.com/ky-doc/demo.git
+# git remote add origin https://github.com/ky-doc/demo.git
 git branch -M main
 
 git push -f origin main
